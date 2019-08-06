@@ -37,6 +37,7 @@ def product_of_all_others(arr):
     return products
 
 
+
 # Tests 
 print(getProductsOfAllIntsExceptAtIndex( [1, 2, 3, 4, 5] ))   
 # should print [120, 60, 40, 30, 24]
